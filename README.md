@@ -1,6 +1,6 @@
 # Password Manager
 
-## Create and Manage a user account with password locally with encryption.
+## Create and Manage an encrypted user account with password locally.
 ### Using node.js, crypto-js, node-persist and yargs.
 
 #### First run: npm install
